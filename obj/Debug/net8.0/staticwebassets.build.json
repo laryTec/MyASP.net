@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "nqhv64CVGEQouWztO0leX6kZI/ccW5An4Wkz0mXoPB4=",
+  "Source": "MyFirstASP.net",
+  "BasePath": "_content/MyFirstASP.net",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyFirstASP.net\\wwwroot",
+      "Source": "MyFirstASP.net",
+      "ContentRoot": "C:\\Users\\lygio\\source\\repos\\MyFirstASP.net\\MyFirstASP.net\\wwwroot\\",
+      "BasePath": "_content/MyFirstASP.net",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\lygio\\source\\repos\\MyFirstASP.net\\MyFirstASP.net\\wwwroot\\Login.html",
+      "SourceId": "MyFirstASP.net",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lygio\\source\\repos\\MyFirstASP.net\\MyFirstASP.net\\wwwroot\\",
+      "BasePath": "_content/MyFirstASP.net",
+      "RelativePath": "Login.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Login.html"
+    }
+  ]
+}
